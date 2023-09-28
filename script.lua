@@ -1,5 +1,5 @@
 Date=30       -- Expiry date
-Month=9       -- Expiry month 
+Month=8       -- Expiry month 
 Year=2023     -- Expiry year
 expiremessage="⚠️ Erro Fale Com Seu Vendedor ⚠️"  --Expiry message 
 --This script will expire on 15/05/2020
